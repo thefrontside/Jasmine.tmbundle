@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>beforeEach(function() {
   $0
-});</string>
+})</string>
 	<key>name</key>
 	<string>before each</string>
 	<key>scope</key>

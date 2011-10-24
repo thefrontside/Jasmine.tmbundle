@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>runs(function() {
   $0
-});</string>
+})</string>
 	<key>name</key>
 	<string>runs</string>
 	<key>scope</key>

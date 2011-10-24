@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>afterEach(function() {
   $0
-});</string>
+})</string>
 	<key>name</key>
 	<string>after each</string>
 	<key>scope</key>
